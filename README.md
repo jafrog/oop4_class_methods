@@ -11,6 +11,7 @@
 
 - Investigate object properties of classes in `pry`;
 - Read through `team.rb`. Understand the usage of the class method as Builder;
+- Implement `build` method in the `Team` class to build a team from a list of players. The method should validate passed arguments: a roller derby team should have a jammer and 4 blockers one of whom is a pivot;
 - Refactor the `Team` class to store team name in a class method;
 
 ## Further reading
